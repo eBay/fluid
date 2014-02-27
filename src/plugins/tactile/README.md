@@ -68,5 +68,7 @@ Finally, jquery.tactile.js accepts the following string arguments:
     $('.selector').tact('enable'); // Enables tactile.js to trigger touch-events for element
     $('.selector').tact('destroy'); // Removes touch handlers on element, destroys tact-related data
 
+##Author
+[Jack Pattishall](http://www.linkedin.com/in/jackpattishall)
 
 
