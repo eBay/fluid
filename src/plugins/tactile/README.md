@@ -12,18 +12,6 @@ jquery.tactile.js has the following requirements:
 
 * jQuery (1.7 or greater)
 
-##Integration
-
-**Raptor**
-
-	<r:includeModule name="fluid/plugins/tactile" jsSlot="body"/>
-
-**Node**
-
-Include the following module under page optimizer.
-
-    <module name="fluid/plugins/tactile" />
-
 ##Usage
 
     $('.selector').tact({
